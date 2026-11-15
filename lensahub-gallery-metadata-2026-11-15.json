@@ -1,0 +1,107 @@
+{
+  "exportedAt": "2026-11-15T06:12:14.212Z",
+  "application": "LensaHub",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "id": "media-upload-1794714971782-dzmb",
+      "title": "97763",
+      "album": "Jalanan",
+      "favorite": false,
+      "createdAt": "Baru saja",
+      "locationName": "Jakarta, Indonesia",
+      "coordinates": {
+        "lat": -6.2088,
+        "lng": 106.8456
+      },
+      "exif": {
+        "camera": "Kamera Perangkat",
+        "lens": "26mm",
+        "aperture": "f/1.8",
+        "shutter": "1/120s",
+        "iso": 100
+      },
+      "sourceRef": "embedded-local-image"
+    },
+    {
+      "id": "media-bromo",
+      "title": "Fajar Kaldera Bromo",
+      "album": "Alam",
+      "favorite": true,
+      "createdAt": "14 Nov 2026",
+      "locationName": "Penanjakan, Taman Nasional Bromo",
+      "coordinates": {
+        "lat": -7.9425,
+        "lng": 112.953
+      },
+      "exif": {
+        "camera": "Fujifilm X-T5",
+        "lens": "XF 16-55mm",
+        "aperture": "f/5.6",
+        "shutter": "1/250s",
+        "iso": 160
+      },
+      "sourceRef": "/src/assets/images/photo_mountain_sunrise_1794714589457.jpg"
+    },
+    {
+      "id": "media-cafe",
+      "title": "Ritual Pagi Seduh Manual",
+      "album": "Arsitektur",
+      "favorite": true,
+      "createdAt": "12 Nov 2026",
+      "locationName": "Kopi Ruji, Kemang, Jakarta Selatan",
+      "coordinates": {
+        "lat": -6.2607,
+        "lng": 106.8148
+      },
+      "exif": {
+        "camera": "Leica Q3",
+        "lens": "Summilux 28mm",
+        "aperture": "f/2.0",
+        "shutter": "1/500s",
+        "iso": 100
+      },
+      "sourceRef": "/src/assets/images/photo_urban_cafe_1794714590396.jpg"
+    },
+    {
+      "id": "media-bali",
+      "title": "Senja Karang Uluwatu",
+      "album": "Alam",
+      "favorite": false,
+      "createdAt": "10 Nov 2026",
+      "locationName": "Tebing Uluwatu, Badung, Bali",
+      "coordinates": {
+        "lat": -8.8291,
+        "lng": 115.0849
+      },
+      "exif": {
+        "camera": "Sony A7C II",
+        "lens": "FE 35mm GM",
+        "aperture": "f/4.0",
+        "shutter": "1/320s",
+        "iso": 200
+      },
+      "sourceRef": "/src/assets/images/photo_coastal_cliff_1794714590679.jpg"
+    },
+    {
+      "id": "media-sabang",
+      "title": "Hujan & Lentera Kuliner Sabang",
+      "album": "Jalanan",
+      "favorite": true,
+      "createdAt": "08 Nov 2026",
+      "locationName": "Jalan H. Agus Salim (Sabang), Jakarta Pusat",
+      "coordinates": {
+        "lat": -6.1856,
+        "lng": 106.8244
+      },
+      "exif": {
+        "camera": "Ricoh GR IIIx",
+        "lens": "40mm f/2.8",
+        "aperture": "f/2.8",
+        "shutter": "1/125s",
+        "iso": 800
+      },
+      "sourceRef": "/src/assets/images/photo_street_neon_1794714591269.jpg"
+    }
+  ]
+}
